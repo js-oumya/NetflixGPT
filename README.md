@@ -1,1 +1,3 @@
 # NetflixGPT
+
+Author - Soumya Jain
